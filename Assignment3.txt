@@ -1,0 +1,62 @@
+"/Library/Frameworks/Python.framework/Versions/3.12/bin/python3 /pythonProject/.venv/bin/python" /Library/Frameworks/Python.framework/Versions/3.12/bin/python3 /pythonProject/Assignment3.py
+question q1
+f_identity is_total True, is_partial True, is_injective True, is_surjective True, is_bijective True
+f_successor is_total False, is_partial True, is_injective True, is_surjective False, is_bijective False
+f_predecessor is_total False, is_partial True, is_injective True, is_surjective False, is_bijective False
+f_square is_total False, is_partial True, is_injective True, is_surjective False, is_bijective False
+
+question q2
+Union:  {'ab', 'a', 'dddd', 'bb', 'abcd', 'ccc', 'abc'}
+Intersection:  {'a', 'dddd', 'bb', 'ccc'}
+Difference:  {'ab', 'abcd', 'abc'}
+Symmetric Difference:  {'ab', 'abcd', 'abc'}
+Cartesian Product:  {('abcd', 'bb'), ('abcd', 'a'), ('abcd', 'dddd'), ('abc', 'ccc'), ('abc', 'bb'), ('ab', 'ccc'), ('abcd', 'ccc'), ('abc', 'a'), ('abc', 'dddd'), ('ab', 'bb'), ('ab', 'a'), ('ab', 'dddd')}
+Power Set:  [(), ('ab',), ('abcd',), ('abc',), ('ab', 'abcd'), ('ab', 'abc'), ('abcd', 'abc'), ('ab', 'abcd', 'abc')]
+Power Set:  [(), ('a',), ('dddd',), ('bb',), ('ccc',), ('a', 'dddd'), ('a', 'bb'), ('a', 'ccc'), ('dddd', 'bb'), ('dddd', 'ccc'), ('bb', 'ccc'), ('a', 'dddd', 'bb'), ('a', 'dddd', 'ccc'), ('a', 'bb', 'ccc'), ('dddd', 'bb', 'ccc'), ('a', 'dddd', 'bb', 'ccc')]
+
+question q3
+Sum counting numbers:  55 55.0
+Sum squares:  385 385.0
+Sum cubes:  3025 3025.0
+Sum geometric:  362797055 362797055.0
+Sum arithmetic:  275 275.0
+
+question q4
+[[15 14 10  7 13]
+ [10 14  4 10 15]
+ [11 11  4  9  7]
+ [ 9  6 14 10 16]
+ [ 6 17 16  3 17]]
+
+[[15 14 10  7 13]
+ [10 14  4 10 15]
+ [11 11  4  9  7]
+ [ 9  6 14 10 16]
+ [ 6 17 16  3 17]]
+
+[[172 277 182  93 210]
+ [153 199 121  99 193]
+ [157 211 147  88 173]
+ [ 90 164 101  53 138]
+ [110 194  99  73 158]]
+
+[[172 277 182  93 210]
+ [153 199 121  99 193]
+ [157 211 147  88 173]
+ [ 90 164 101  53 138]
+ [110 194  99  73 158]]
+
+
+question q5
+old number:  0.010011 0.296875
+old number:  0.101010 0.65625
+old number:  0.111000 0.875
+old number:  0.000111 0.109375
+old number:  0.111111 0.984375
+old number:  0.111000 0.875
+new number:  0.110001 0.765625
+
+question q6
+
+
+Process finished with exit code 0

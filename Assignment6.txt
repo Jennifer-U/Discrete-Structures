@@ -1,0 +1,19 @@
+"/Library/Frameworks/Python.framework/Versions/3.12/bin/python3 /pythonProject/.venv/bin/python" /Library/Frameworks/Python.framework/Versions/3.12/bin/python3 /pythonProject/Assignment6.py
+                              10        100       1000        10000
+native_search              0.110865  0.346422  2.536058   24.730206
+linear_search              0.215054  0.696182  7.924795   93.403101
+linear_search_sentinel     0.229597  0.913620  9.899855  109.685898
+binary_search_iterative    0.255823  0.461817  0.871658    1.205206
+binary_search_recursive    0.295162  0.490189  0.993729    1.396418
+binary_search_randomized   1.078367  2.193928  4.151583    5.747795
+binary_search_onesided     0.363827  0.529766  0.922441    1.236916
+binary_search_better       0.274420  0.489235  0.851631    1.116514
+ternary_search_iterative   0.248671  0.428200  0.928402    1.315832
+ternary_search_recursive   0.325680  0.520706  1.024485    1.398802
+ternary_search_randomized  1.367331  2.520084  4.690886    6.607294
+exponential_search         0.337839  0.642538  1.171350    1.622438
+jump_search                0.615597  1.432657  4.443169   13.446808
+fibonacci_search           0.543118  1.034260  1.932621    2.531528
+interpolation_search       0.313759  0.489950  0.712872    0.799656
+
+Process finished with exit code 0
