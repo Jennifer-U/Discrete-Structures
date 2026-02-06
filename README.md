@@ -39,3 +39,6 @@ All assignments completed in **Python** with:
 - Performance benchmarking and empirical analysis
 - Data visualization and plots
 - Graphical representations of results
+
+## Acknowledgments
+Collaborated with class
