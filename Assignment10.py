@@ -1,9 +1,7 @@
-# Queens College
-# Discrete Structures (CSCI 220)
+# Discrete Structures 
 # Winter 2024
 # Assignment 10: "Discrete Probability"
-# name Jennifer Umana
-# Collaborated with Class
+
 
 import matplotlib.pyplot as plt
 import math
