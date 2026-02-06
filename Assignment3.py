@@ -1,9 +1,7 @@
-# Queens College
-# Discrete Structures (CSCI 220)
+# Discrete Structures 
 # Winter 2024
 # Assignment 3: "Basic Mathematical Structures"
-# name Jennifer Umana
-# Collaborated with Class
+
 
 import random
 import numpy as np
