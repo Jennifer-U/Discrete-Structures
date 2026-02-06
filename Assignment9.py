@@ -1,9 +1,7 @@
-# Queens College
-# Discrete Structures (CSCI 220)
+# Discrete Structures 
 # Winter 2024
 # Assignment 9: "Linear Homogeneous Recurrences"
-# name Jennifer Umana
-# Collaborated with Class
+
 
 import math
 from math import log, sqrt
