@@ -1,9 +1,7 @@
-# Queens College
-# Discrete Structures (CSCI 220)
+# Discrete Structures 
 # Winter 2024
 # Assignment 2: "Boolean Algebra"
-# name Jennifer Umana
-# Collaborated with Class
+
 
 import inspect
 import pandas as pd
