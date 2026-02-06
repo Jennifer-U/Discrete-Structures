@@ -1,9 +1,6 @@
-# Queens College
-# Discrete Structures (CSCI 220)
+# Discrete Structures 
 # Winter 2024
 # Assignment 4: "Permutations and Combinations"
-# name Jennifer Umana
-# Collaborated with Class
 
 
 from math import factorial, perm, comb
