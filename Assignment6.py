@@ -1,9 +1,8 @@
-# Queens College
-# Discrete Structures (CSCI 220)
+# Discrete Structures 
 # Winter 2024
 # Assignment 6: "Empirical Performance of (Array-)Search Algorithms"
-# name Jennifer Umana
-# Collaborated with Class
+
+
 import math
 from random import randint
 import random
