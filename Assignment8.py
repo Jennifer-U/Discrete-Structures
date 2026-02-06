@@ -1,9 +1,8 @@
-# Queens College
-# Discrete Structures (CSCI 220)
+# Discrete Structures 
 # Winter 2024
 # Assignment 8: "Divide-and-Conquer Recurrences"
-# name Jennifer Umana
-# Collaborated with Class
+
+
 import inspect
 import math
 import texttable
