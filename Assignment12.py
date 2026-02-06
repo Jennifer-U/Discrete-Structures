@@ -1,9 +1,6 @@
-# Queens College
-# Discrete Structures (CSCI 220)
+# Discrete Structures 
 # Winter 2024
 # Assignment 12: "Trees and Tree Algorithms"
-# name Jennifer Umana
-# Collaborated with Class
 
 
 from random import randint, shuffle
